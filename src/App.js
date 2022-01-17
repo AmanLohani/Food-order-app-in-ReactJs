@@ -13,7 +13,7 @@ function App() {
 
   const hideCartHandler = () => {
     setCartIsShown(false);
-  }
+  };
 
   return (
     <CartProvider>
